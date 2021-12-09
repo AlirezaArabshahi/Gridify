@@ -1,0 +1,1 @@
+const e={key:"v-b72a514e",path:"/guide/entity-framework.html",title:"Entity Framework",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Enableing compatibility layer",slug:"enableing-compatibility-layer",children:[]}],filePathRelative:"guide/entity-framework.md",git:{updatedTime:1638890278e3}};export{e as data};
